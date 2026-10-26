@@ -4,6 +4,19 @@
   "seenVideos": {},
   "seenArticles": {},
   "repositorySnapshots": {
+    "9193949": {
+      "fullName": "wallabag/wallabag",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 13026,
+          "forks": 905,
+          "openIssues": 772
+        }
+      ]
+    },
     "44662669": {
       "fullName": "dbeaver/dbeaver",
       "firstSeenAt": "2026-10-09T11:37:23.334Z",
@@ -75,6 +88,19 @@
         }
       ]
     },
+    "300529232": {
+      "fullName": "bex-co/beancount-io",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 314,
+          "forks": 39,
+          "openIssues": 1
+        }
+      ]
+    },
     "338918940": {
       "fullName": "Godefroy/rolebase",
       "firstSeenAt": "2026-10-19T04:52:25.727Z",
@@ -85,6 +111,19 @@
           "stars": 34,
           "forks": 7,
           "openIssues": 13
+        }
+      ]
+    },
+    "451234802": {
+      "fullName": "shikanime-labs/manifests",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 5,
+          "forks": 3,
+          "openIssues": 15
         }
       ]
     },
@@ -139,6 +178,19 @@
         }
       ]
     },
+    "642804640": {
+      "fullName": "AndersonBY/vector-vein",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 940,
+          "forks": 140,
+          "openIssues": 11
+        }
+      ]
+    },
     "685036027": {
       "fullName": "ChristophWeigert/lab",
       "firstSeenAt": "2026-10-19T04:52:25.727Z",
@@ -188,6 +240,32 @@
           "stars": 3411,
           "forks": 505,
           "openIssues": 6
+        }
+      ]
+    },
+    "762571895": {
+      "fullName": "buckyos/buckyos",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 27,
+          "forks": 17,
+          "openIssues": 44
+        }
+      ]
+    },
+    "771572693": {
+      "fullName": "pledger-io/user-interface",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 6,
+          "forks": 4,
+          "openIssues": 7
         }
       ]
     },
@@ -268,6 +346,19 @@
         }
       ]
     },
+    "864294538": {
+      "fullName": "api-evangelist/ion-group",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 6
+        }
+      ]
+    },
     "887435804": {
       "fullName": "Drix10/ai-resources",
       "firstSeenAt": "2026-10-19T04:52:25.727Z",
@@ -291,6 +382,19 @@
           "stars": 9157,
           "forks": 898,
           "openIssues": 37
+        }
+      ]
+    },
+    "896000490": {
+      "fullName": "bbvch-ai/aihub-core",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 16,
+          "forks": 3,
+          "openIssues": 420
         }
       ]
     },
@@ -384,6 +488,32 @@
         }
       ]
     },
+    "986930483": {
+      "fullName": "letungbach/botay",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 1,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "998450933": {
+      "fullName": "afairgiant/MediKeep",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 547,
+          "forks": 48,
+          "openIssues": 64
+        }
+      ]
+    },
     "1003482701": {
       "fullName": "dailydevops/codebuilder",
       "firstSeenAt": "2026-10-12T06:08:51.458Z",
@@ -420,6 +550,45 @@
           "stars": 2,
           "forks": 0,
           "openIssues": 11
+        }
+      ]
+    },
+    "1075338256": {
+      "fullName": "ishbuggy/audiobookup",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 2,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1080303136": {
+      "fullName": "avabbbb/Flovart",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 144,
+          "forks": 36,
+          "openIssues": 3
+        }
+      ]
+    },
+    "1096199705": {
+      "fullName": "ainfarhanah/homelab",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
         }
       ]
     },
@@ -476,6 +645,32 @@
         {
           "capturedAt": "2026-10-09T11:37:23.334Z",
           "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1126957014": {
+      "fullName": "api-evangelist/jentic",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1132173899": {
+      "fullName": "MrLokans/book-highlights-manager",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 4,
           "forks": 0,
           "openIssues": 0
         }
@@ -546,6 +741,19 @@
         }
       ]
     },
+    "1146121172": {
+      "fullName": "Kha-kis/dashgate",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 17,
+          "forks": 2,
+          "openIssues": 1
+        }
+      ]
+    },
     "1146123585": {
       "fullName": "YahyaSaadaoui/Nettimer",
       "firstSeenAt": "2026-10-09T11:37:23.334Z",
@@ -588,6 +796,32 @@
           "stars": 1,
           "forks": 0,
           "openIssues": 0
+        }
+      ]
+    },
+    "1148775772": {
+      "fullName": "Keegan-Wright/FinTrack",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 1,
+          "forks": 0,
+          "openIssues": 11
+        }
+      ]
+    },
+    "1149308842": {
+      "fullName": "sudosubin/agents.nix",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 17,
+          "forks": 2,
+          "openIssues": 20
         }
       ]
     },
@@ -713,6 +947,32 @@
         }
       ]
     },
+    "1182598762": {
+      "fullName": "constellation-works/orbit",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 15,
+          "forks": 2,
+          "openIssues": 3
+        }
+      ]
+    },
+    "1184883382": {
+      "fullName": "yhc509/unity-cli-bridge",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 3,
+          "forks": 0,
+          "openIssues": 18
+        }
+      ]
+    },
     "1185288849": {
       "fullName": "Amit-chouhan/bulwark",
       "firstSeenAt": "2026-10-09T11:37:23.334Z",
@@ -720,6 +980,45 @@
       "snapshots": [
         {
           "capturedAt": "2026-10-09T11:37:23.334Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1191016037": {
+      "fullName": "MrBildo/collabhost",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 1,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1193458047": {
+      "fullName": "monoes/mono-agent-src",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 1,
+          "openIssues": 26
+        }
+      ]
+    },
+    "1193508943": {
+      "fullName": "api-evangelist/integrately",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
           "stars": 0,
           "forks": 0,
           "openIssues": 0
@@ -804,6 +1103,19 @@
         }
       ]
     },
+    "1222991801": {
+      "fullName": "appandflow/stim",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 90,
+          "forks": 9,
+          "openIssues": 134
+        }
+      ]
+    },
     "1223780475": {
       "fullName": "Beige-superior870/synthcode",
       "firstSeenAt": "2026-10-12T06:08:51.458Z",
@@ -830,6 +1142,97 @@
         }
       ]
     },
+    "1233749549": {
+      "fullName": "Sma1lboy/rove",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 180,
+          "forks": 11,
+          "openIssues": 5
+        }
+      ]
+    },
+    "1235574625": {
+      "fullName": "api-evangelist/hive",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1235575163": {
+      "fullName": "api-evangelist/keep",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1235877097": {
+      "fullName": "api-evangelist/gatekeeper",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1235878190": {
+      "fullName": "api-evangelist/invoice-ninja",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1235878314": {
+      "fullName": "api-evangelist/jobnimbus",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1236055060": {
+      "fullName": "RCooLeR/Aegrail",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
     "1243889840": {
       "fullName": "NVIDIA-NeMo/Switchyard",
       "firstSeenAt": "2026-10-12T06:08:51.458Z",
@@ -840,6 +1243,19 @@
           "stars": 3352,
           "forks": 330,
           "openIssues": 133
+        }
+      ]
+    },
+    "1244370433": {
+      "fullName": "Claud-Lu/healthguard",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 1,
+          "forks": 0,
+          "openIssues": 0
         }
       ]
     },
@@ -901,6 +1317,32 @@
         }
       ]
     },
+    "1247688938": {
+      "fullName": "api-evangelist/lightmatter",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1247785338": {
+      "fullName": "api-evangelist/formstack",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
     "1251241402": {
       "fullName": "owaspcornucopia/cornucopia-cheatsheets-llm",
       "firstSeenAt": "2026-10-09T11:37:23.334Z",
@@ -923,6 +1365,32 @@
           "capturedAt": "2026-10-19T04:52:25.727Z",
           "stars": 5,
           "forks": 1,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1253426142": {
+      "fullName": "markjasperthyme/fadingglacierlab",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1256553251": {
+      "fullName": "caalh/OWEN",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 9,
+          "forks": 2,
           "openIssues": 0
         }
       ]
@@ -1011,6 +1479,19 @@
         }
       ]
     },
+    "1264268579": {
+      "fullName": "xynogen/pix-mono",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 75,
+          "forks": 16,
+          "openIssues": 3
+        }
+      ]
+    },
     "1265220920": {
       "fullName": "Merctxt/OpenLicense",
       "firstSeenAt": "2026-10-19T04:52:25.727Z",
@@ -1024,6 +1505,32 @@
         }
       ]
     },
+    "1266212515": {
+      "fullName": "omnigent-ai/omnigent",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 11047,
+          "forks": 1808,
+          "openIssues": 2409
+        }
+      ]
+    },
+    "1268725594": {
+      "fullName": "korchasa/awesome-infra-for-ai",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 2,
+          "openIssues": 2
+        }
+      ]
+    },
     "1271006952": {
       "fullName": "Jinie-AI/Jinie",
       "firstSeenAt": "2026-10-09T11:37:23.334Z",
@@ -1031,6 +1538,19 @@
       "snapshots": [
         {
           "capturedAt": "2026-10-09T11:37:23.334Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1275536593": {
+      "fullName": "api-evangelist/gcore",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
           "stars": 0,
           "forks": 0,
           "openIssues": 0
@@ -1066,6 +1586,19 @@
           "stars": 0,
           "forks": 0,
           "openIssues": 0
+        }
+      ]
+    },
+    "1281194026": {
+      "fullName": "Eric841001/Eric841001.github.io",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 1
         }
       ]
     },
@@ -1127,6 +1660,19 @@
         }
       ]
     },
+    "1289061453": {
+      "fullName": "Orkeon/orkeon",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 1,
+          "forks": 0,
+          "openIssues": 5
+        }
+      ]
+    },
     "1289855763": {
       "fullName": "jesus-angel-rodriguez-martinez/workspace",
       "firstSeenAt": "2026-10-19T04:52:25.727Z",
@@ -1160,6 +1706,19 @@
       "snapshots": [
         {
           "capturedAt": "2026-10-09T11:37:23.334Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1296927351": {
+      "fullName": "api-evangelist/hawksoft",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
           "stars": 0,
           "forks": 0,
           "openIssues": 0
@@ -1237,6 +1796,45 @@
         }
       ]
     },
+    "1300740351": {
+      "fullName": "PVRLabs/statlite",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 180,
+          "forks": 6,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1301544332": {
+      "fullName": "est7/1st-pi",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 1,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1302949847": {
+      "fullName": "santhreal/veyyon",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 29,
+          "forks": 7,
+          "openIssues": 35
+        }
+      ]
+    },
     "1306381116": {
       "fullName": "itssourov13/hackergf-ai",
       "firstSeenAt": "2026-10-19T04:52:25.727Z",
@@ -1263,6 +1861,32 @@
         }
       ]
     },
+    "1307350327": {
+      "fullName": "Kolanupaka92/iactranslate",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 10
+        }
+      ]
+    },
+    "1308480540": {
+      "fullName": "weifuwan/yak-ops",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 58,
+          "forks": 19,
+          "openIssues": 21
+        }
+      ]
+    },
     "1311191576": {
       "fullName": "sunny-raj-sah/AI-Document-Q-A-System-RAG-Based-LLM-Application-",
       "firstSeenAt": "2026-10-09T11:37:23.334Z",
@@ -1270,6 +1894,110 @@
       "snapshots": [
         {
           "capturedAt": "2026-10-09T11:37:23.334Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1312948444": {
+      "fullName": "api-evangelist/dehaze",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1313014479": {
+      "fullName": "api-evangelist/dorado-software-inc",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1313052493": {
+      "fullName": "api-evangelist/dualbird",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1313384456": {
+      "fullName": "api-evangelist/gimlet-labs",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1313420351": {
+      "fullName": "api-evangelist/govguard",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1313422255": {
+      "fullName": "api-evangelist/gradient",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1313455268": {
+      "fullName": "api-evangelist/gruve",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1313688387": {
+      "fullName": "api-evangelist/inference",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
           "stars": 0,
           "forks": 0,
           "openIssues": 0
@@ -1302,6 +2030,19 @@
         }
       ]
     },
+    "1316375728": {
+      "fullName": "api-evangelist/jones",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
     "1316736586": {
       "fullName": "F3TTT/scripts",
       "firstSeenAt": "2026-10-09T11:37:23.334Z",
@@ -1309,6 +2050,71 @@
       "snapshots": [
         {
           "capturedAt": "2026-10-09T11:37:23.334Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1317231596": {
+      "fullName": "api-evangelist/kubeark",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1317401170": {
+      "fullName": "api-evangelist/locale",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1317464567": {
+      "fullName": "api-evangelist/machine0",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1317469091": {
+      "fullName": "api-evangelist/magical",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1319706942": {
+      "fullName": "api-evangelist/eliyan",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
           "stars": 0,
           "forks": 0,
           "openIssues": 0
@@ -1341,6 +2147,19 @@
         }
       ]
     },
+    "1327017495": {
+      "fullName": "Forgemind-git/ForgeGrowth-OSS",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 18,
+          "forks": 16,
+          "openIssues": 0
+        }
+      ]
+    },
     "1328159323": {
       "fullName": "AbdullahBera/hermes-sidekick",
       "firstSeenAt": "2026-10-19T04:52:25.727Z",
@@ -1349,6 +2168,19 @@
         {
           "capturedAt": "2026-10-19T04:52:25.727Z",
           "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1328879196": {
+      "fullName": "SebMZI/SubSpace",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 2,
           "forks": 0,
           "openIssues": 0
         }
@@ -1386,6 +2218,32 @@
         }
       ]
     },
+    "1330224025": {
+      "fullName": "clydigital/power-stack",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 5
+        }
+      ]
+    },
+    "1333716857": {
+      "fullName": "maincarry/harnessmap",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
     "1334277769": {
       "fullName": "TunarJamalov/open-source-saas-alternatives",
       "firstSeenAt": "2026-10-19T04:52:25.727Z",
@@ -1409,6 +2267,19 @@
           "stars": 0,
           "forks": 0,
           "openIssues": 0
+        }
+      ]
+    },
+    "1338595158": {
+      "fullName": "devon-systems/johto",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 3,
+          "forks": 0,
+          "openIssues": 1
         }
       ]
     },
@@ -1467,6 +2338,19 @@
           "stars": 0,
           "forks": 0,
           "openIssues": 0
+        }
+      ]
+    },
+    "1344466793": {
+      "fullName": "oomol-lab/open-flow",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 276,
+          "forks": 28,
+          "openIssues": 2
         }
       ]
     },
@@ -1695,6 +2579,19 @@
         }
       ]
     },
+    "1358326041": {
+      "fullName": "RajdeepDas012/codex-cerebrum",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 1,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
     "1359104425": {
       "fullName": "TERUZvxght/TERUZvxght",
       "firstSeenAt": "2026-10-19T04:52:25.727Z",
@@ -1718,6 +2615,32 @@
           "stars": 0,
           "forks": 0,
           "openIssues": 0
+        }
+      ]
+    },
+    "1360991101": {
+      "fullName": "gauravsahoo-ops/Flowsmith",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1361497109": {
+      "fullName": "fossaryhq/catalog",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 277,
+          "forks": 16,
+          "openIssues": 2
         }
       ]
     },
@@ -1792,6 +2715,19 @@
         }
       ]
     },
+    "1367261696": {
+      "fullName": "vasilistotskas/grooveshop-docs",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
     "1369061502": {
       "fullName": "blackkiller-1932/Infradrive-Digital-Diary",
       "firstSeenAt": "2026-10-19T04:52:25.727Z",
@@ -1851,6 +2787,19 @@
       "snapshots": [
         {
           "capturedAt": "2026-10-19T04:52:25.727Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1372073997": {
+      "fullName": "Zikmadol/trapline-ioc",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
           "stars": 0,
           "forks": 0,
           "openIssues": 0
@@ -1961,6 +2910,19 @@
         }
       ]
     },
+    "1378399159": {
+      "fullName": "api-evangelist/machinerealms-com",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
     "1378484451": {
       "fullName": "febridev/db-estimation-tools",
       "firstSeenAt": "2026-10-12T06:08:51.458Z",
@@ -1983,6 +2945,19 @@
           "capturedAt": "2026-10-19T04:52:25.727Z",
           "stars": 1,
           "forks": 0,
+          "openIssues": 5
+        }
+      ]
+    },
+    "1379993732": {
+      "fullName": "ZacxDev/muster",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 1,
+          "forks": 1,
           "openIssues": 5
         }
       ]
@@ -2091,6 +3066,19 @@
         }
       ]
     },
+    "1391625730": {
+      "fullName": "serious-alchemy/arbiter",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 12
+        }
+      ]
+    },
     "1392911343": {
       "fullName": "theendstoryking50/Sql-Server-2000-Sp4-Full-Version-Unlocked",
       "firstSeenAt": "2026-10-09T11:37:23.334Z",
@@ -2143,6 +3131,32 @@
       "snapshots": [
         {
           "capturedAt": "2026-10-09T11:37:23.334Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1398913529": {
+      "fullName": "magicsih/chda",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 4,
+          "forks": 0,
+          "openIssues": 4
+        }
+      ]
+    },
+    "1399808769": {
+      "fullName": "Ridwanns/market-atlas",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
           "stars": 0,
           "forks": 0,
           "openIssues": 0
@@ -2224,6 +3238,19 @@
           "stars": 1,
           "forks": 0,
           "openIssues": 0
+        }
+      ]
+    },
+    "1401417840": {
+      "fullName": "lamanasser56/secure-financial-ai-infrastructure",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 1
         }
       ]
     },
@@ -2314,6 +3341,19 @@
           "capturedAt": "2026-10-09T11:37:23.334Z",
           "stars": 5,
           "forks": 1,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1402018168": {
+      "fullName": "potetoai/lodestar-harness",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
           "openIssues": 0
         }
       ]
@@ -3286,6 +4326,19 @@
         }
       ]
     },
+    "1406431451": {
+      "fullName": "Particle-Academy/prism-acp-ts",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 3
+        }
+      ]
+    },
     "1406471601": {
       "fullName": "alphaparkinc/genpark-mcp-unified-context-compaction-and-rate-limiter-skill",
       "firstSeenAt": "2026-10-09T11:37:23.334Z",
@@ -3659,6 +4712,19 @@
           "stars": 18,
           "forks": 0,
           "openIssues": 0
+        }
+      ]
+    },
+    "1408502959": {
+      "fullName": "babariviere/pilot",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 6,
+          "forks": 2,
+          "openIssues": 4
         }
       ]
     },
@@ -4254,6 +5320,19 @@
         {
           "capturedAt": "2026-10-12T06:08:51.458Z",
           "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1411513055": {
+      "fullName": "vaakx-dev/sand",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 2,
           "forks": 0,
           "openIssues": 0
         }
@@ -5442,6 +6521,19 @@
         }
       ]
     },
+    "1417047414": {
+      "fullName": "SpeedupMaster/vessel",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
     "1417254961": {
       "fullName": "nurettincoban/claude-resume",
       "firstSeenAt": "2026-10-19T04:52:25.727Z",
@@ -5802,6 +6894,19 @@
           "capturedAt": "2026-10-19T04:52:25.727Z",
           "stars": 69,
           "forks": 4,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1420128542": {
+      "fullName": "francisown/filingcopilot",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
           "openIssues": 0
         }
       ]
@@ -6456,6 +7561,32 @@
         }
       ]
     },
+    "1425063397": {
+      "fullName": "MemTensor/MemT-1.0",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 404,
+          "forks": 22,
+          "openIssues": 4
+        }
+      ]
+    },
+    "1425104255": {
+      "fullName": "grenitho/orion",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
     "1425108914": {
       "fullName": "membraince/membraince-code",
       "firstSeenAt": "2026-10-19T04:52:25.727Z",
@@ -6494,9 +7625,1443 @@
           "openIssues": 0
         }
       ]
+    },
+    "1425156070": {
+      "fullName": "PriyeshPandey2000/tauri-saas-starter",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 1,
+          "forks": 0,
+          "openIssues": 1
+        }
+      ]
+    },
+    "1425224261": {
+      "fullName": "technosmarter/vcard-management-system-php",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 5,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1425227613": {
+      "fullName": "C4rohan/Lampline",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 267,
+          "forks": 36,
+          "openIssues": 7
+        }
+      ]
+    },
+    "1425243935": {
+      "fullName": "JiaCheng-code/orvyn-agent-skills",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 1,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1425301947": {
+      "fullName": "kimlonger/wincodex",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 1,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1425308544": {
+      "fullName": "AZERDSQ131/Open-Hermes-Bot",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 45,
+          "forks": 3,
+          "openIssues": 25
+        }
+      ]
+    },
+    "1425364696": {
+      "fullName": "Yourstandby/PiForge",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 1,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1425407655": {
+      "fullName": "odiumuniverse/claudecode.nvim",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 10,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1425493353": {
+      "fullName": "arpittak027/OUTPOST",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 1,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1425529535": {
+      "fullName": "dcarrero/genpic",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 20,
+          "forks": 8,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1425563571": {
+      "fullName": "rextail-ai/lessloc",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 102,
+          "forks": 1,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1425571951": {
+      "fullName": "alphaparkinc/genpark-distributed-deadlock-wait-for-graph-detector-skill",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 7,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1425572819": {
+      "fullName": "Alpha-Park/genpark-distributed-deadlock-wait-for-graph-detector-skill",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 7,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1425655622": {
+      "fullName": "RalphKahkedjian/ai-console-assistant",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1425956482": {
+      "fullName": "Tintaa307/shipkit",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 5,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1426065422": {
+      "fullName": "satriyaa67/qwen2api-MultiLANG",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 52,
+          "forks": 1,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1426073056": {
+      "fullName": "Umair/stalemap",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 103,
+          "forks": 41,
+          "openIssues": 1
+        }
+      ]
+    },
+    "1426256817": {
+      "fullName": "kukemc/bili-cli",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 231,
+          "forks": 15,
+          "openIssues": 1
+        }
+      ]
+    },
+    "1426292092": {
+      "fullName": "pnnnx/local-code-tutor",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 20,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1426294278": {
+      "fullName": "vstlmkh/designing-databases",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 4,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1426475782": {
+      "fullName": "cporter202/api-mesa",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 13,
+          "forks": 2,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1426630630": {
+      "fullName": "Developer-Vault-app/Developer-Vault",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 2,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1426876856": {
+      "fullName": "thoughtcook/verified-black-friday",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 1,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1426883374": {
+      "fullName": "alphaparkinc/genpark-cron-jitter-scheduler-agent-skill",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 7,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1426883852": {
+      "fullName": "Alpha-Park/genpark-cron-jitter-scheduler-agent-skill",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 7,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1426999692": {
+      "fullName": "dbolympics/dbolympics",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 6,
+          "forks": 3,
+          "openIssues": 2
+        }
+      ]
+    },
+    "1427516673": {
+      "fullName": "abyssdblabs/abyssdb",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 2,
+          "forks": 0,
+          "openIssues": 3
+        }
+      ]
+    },
+    "1427557034": {
+      "fullName": "Refuzal/Masterplan",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 1,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1427599842": {
+      "fullName": "hamadsec/paperclip-ai-company",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1427666307": {
+      "fullName": "yiyux/ksqlc",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 2,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1427971098": {
+      "fullName": "alphaparkinc/genpark-semver-dependency-resolver-agent-skill",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 7,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1427971584": {
+      "fullName": "Alpha-Park/genpark-semver-dependency-resolver-agent-skill",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 7,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1428020313": {
+      "fullName": "alphaparkinc/genpark-safe-eval-expression-ast-sandbox-skill",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 7,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1428021020": {
+      "fullName": "Alpha-Park/genpark-safe-eval-expression-ast-sandbox-skill",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 7,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1428053903": {
+      "fullName": "sh20raj-backup/awesome-cursorrules",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1428163032": {
+      "fullName": "Tatayoyoh/rustyrobo",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 5,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1428348059": {
+      "fullName": "h9-tec/ai-roadmap-2026",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 163,
+          "forks": 18,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1428393506": {
+      "fullName": "wonderandyou/dsh-admin-mode",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 11,
+          "forks": 3,
+          "openIssues": 1
+        }
+      ]
+    },
+    "1428524408": {
+      "fullName": "RaysAndreyRU/RaysAndreyRU",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 5,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1428537696": {
+      "fullName": "diginno-net/grokbot-dsh-orchestrator-vn",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 24,
+          "forks": 9,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1428694670": {
+      "fullName": "MurShidM01/Kern",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 2,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1428797699": {
+      "fullName": "ryltsevmikhail/Runne",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 2
+        }
+      ]
+    },
+    "1428912124": {
+      "fullName": "jwuthri-cloud/SelfJev",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 56,
+          "forks": 22,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1428945588": {
+      "fullName": "Termix-SSH/Plugin-Databases",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 1,
+          "forks": 0,
+          "openIssues": 1
+        }
+      ]
+    },
+    "1428956183": {
+      "fullName": "lawerth/discord-streamer",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 15,
+          "forks": 1,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1428969386": {
+      "fullName": "heterodoxin/AbliteratedOutTheBox",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 134,
+          "forks": 16,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1429201154": {
+      "fullName": "Juwan-Hwang/omni2api",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 41,
+          "forks": 10,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1429310835": {
+      "fullName": "Thomaszhou22/file-to-database-skill",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 2,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1429387161": {
+      "fullName": "khanhtq29vn/contextcraft",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 53,
+          "forks": 6,
+          "openIssues": 8
+        }
+      ]
+    },
+    "1429474586": {
+      "fullName": "LinduanTof/b-db",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 1,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1429518583": {
+      "fullName": "sjdsjadjajdjsa/prism",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 5,
+          "forks": 1,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1429539637": {
+      "fullName": "Zolohacker/EasyRun",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 14,
+          "forks": 2,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1429740551": {
+      "fullName": "xavidop/tobira",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 2,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1429772299": {
+      "fullName": "MrNasrulla15/ContextTrace-AI-RAG",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 1,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1430060789": {
+      "fullName": "euron-sde-team/euron-open-hrms",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 7,
+          "forks": 10,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1430140009": {
+      "fullName": "alexsergivan/kwant",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 13,
+          "forks": 3,
+          "openIssues": 1
+        }
+      ]
+    },
+    "1430141561": {
+      "fullName": "Pneutronic/ptc-xae-mcp",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 8,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1430225195": {
+      "fullName": "emrahaydemir960-ai/daimon-data-agent",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 58,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1430225220": {
+      "fullName": "Eljot19/runic",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 58,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1430225224": {
+      "fullName": "heitorcarvalhohlbryzeis6-cloud/whatsapp-mcp-server",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 58,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1430225233": {
+      "fullName": "victorgassuncao21/piper-morgan-assistant",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 58,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1430231565": {
+      "fullName": "Loyaltystone/factorio-admin-command-center",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 9,
+          "forks": 5,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1430265907": {
+      "fullName": "AGI-CEO/awesome-money-making-mcp-servers",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 2,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1430274136": {
+      "fullName": "Polterpup2008/LocalCode",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1430471221": {
+      "fullName": "goodnight000/warm-apply",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 7,
+          "forks": 1,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1430540130": {
+      "fullName": "liyupi/dafeiyu-cleaner",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 92,
+          "forks": 4,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1430540152": {
+      "fullName": "litmers-dev/litpage",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 38,
+          "forks": 34,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1430550405": {
+      "fullName": "mpyw/dbstick",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 1,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1430661309": {
+      "fullName": "vamsivarma27/proofloop",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1430688115": {
+      "fullName": "nakata-app/nakata",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1431092336": {
+      "fullName": "grandexecuti/ghpublish",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 13,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1431134972": {
+      "fullName": "euron-sde-team/euron-code-agent",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 1,
+          "forks": 3,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1431196950": {
+      "fullName": "NerverDevs/nervecenter",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 46,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1431290954": {
+      "fullName": "manoagois/conforme",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 2,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1431380919": {
+      "fullName": "byteminus/go-settings",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 1,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1431383158": {
+      "fullName": "byteminus/go-medialibrary",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 3,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1431469278": {
+      "fullName": "burnoutscript/prumo",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 1,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1431470133": {
+      "fullName": "KhulekanisiyandaMchunu/llm-trading-arena",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 58,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1431551436": {
+      "fullName": "pranataa-labs/FleetPulse",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 1,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1431621642": {
+      "fullName": "EnkiHQ/break-anything",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1431811046": {
+      "fullName": "yzsind/mydb",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 4,
+          "forks": 1,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1431838105": {
+      "fullName": "SanatorDev/workflow-automation",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 1
+        }
+      ]
+    },
+    "1431866670": {
+      "fullName": "damiantorresmx11/replica-crew",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 1,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1431932080": {
+      "fullName": "lwh0630/TokenBar",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 56,
+          "forks": 6,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1431938713": {
+      "fullName": "OpenResearchAssets/openresearchassets.github.io",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 1,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1431972969": {
+      "fullName": "KevinHuesca343/NoCloud",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 1,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1431996468": {
+      "fullName": "Huy-8bit/locklens",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 6,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1432049040": {
+      "fullName": "ImLunaHey/local-paas",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 11,
+          "forks": 1,
+          "openIssues": 8
+        }
+      ]
+    },
+    "1432285930": {
+      "fullName": "truongnat/dotagents",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1432433089": {
+      "fullName": "sihabsantydwi/laravel-query-sentinel",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 4,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1432497080": {
+      "fullName": "alexdemer07-art/vscode_gui",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 2,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1432554127": {
+      "fullName": "shahzaib-io-dev/shahzaib-nexus",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 1,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1432666884": {
+      "fullName": "nkirsch/auto-builder",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 1
+        }
+      ]
+    },
+    "1432859491": {
+      "fullName": "nelsonPires5/pi-tidy-context",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1432947059": {
+      "fullName": "glferreira-devsecops/hullcheck",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 1,
+          "forks": 0,
+          "openIssues": 1
+        }
+      ]
+    },
+    "1432967563": {
+      "fullName": "ccch1mneyyy/dsh-go",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 51,
+          "forks": 1,
+          "openIssues": 24
+        }
+      ]
+    },
+    "1433005387": {
+      "fullName": "jadezane6634-ops/dsh-purge-flash",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 72,
+          "forks": 30,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1433025564": {
+      "fullName": "21-ci/runtime-web",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 6
+        }
+      ]
+    },
+    "1433183806": {
+      "fullName": "unknown404-practice/Autonomous-Event-Planner",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 1,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1433346677": {
+      "fullName": "anupmurali05/loan_processing",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1433451072": {
+      "fullName": "deepdigger69/toydb",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 5,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1433454638": {
+      "fullName": "deepdigger69/sqlite-clone",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 4,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1433455842": {
+      "fullName": "deepdigger69/columnar-db",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 2,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1433456285": {
+      "fullName": "deepdigger69/log-structured-store",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 2,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1433481918": {
+      "fullName": "omarperacha/minutus",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1433495933": {
+      "fullName": "azhan524/ahz-scribe-soma",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1433525477": {
+      "fullName": "jacksonpangc-hash/commerce-creative-skill",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1433600639": {
+      "fullName": "SparkAdmire62/Asana-Enterprise-Desktop-2026",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 1,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
+    },
+    "1433687318": {
+      "fullName": "briannastatic/aoe3-decomp",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 51
+        }
+      ]
+    },
+    "1433753595": {
+      "fullName": "CHAAIISE/tsuna",
+      "firstSeenAt": "2026-10-26T04:57:45.012Z",
+      "lastSeenAt": "2026-10-26T04:57:45.012Z",
+      "snapshots": [
+        {
+          "capturedAt": "2026-10-26T04:57:45.012Z",
+          "stars": 0,
+          "forks": 0,
+          "openIssues": 0
+        }
+      ]
     }
   },
   "featuredRepositories": {
+    "9193949": {
+      "fullName": "wallabag/wallabag",
+      "featuredAt": "2026-10-26T04:57:55.081Z"
+    },
     "44662669": {
       "fullName": "dbeaver/dbeaver",
       "featuredAt": "2026-10-09T11:37:34.118Z"
@@ -6513,13 +9078,33 @@
       "fullName": "langfuse/langfuse",
       "featuredAt": "2026-10-12T06:09:00.652Z"
     },
+    "642804640": {
+      "fullName": "AndersonBY/vector-vein",
+      "featuredAt": "2026-10-26T04:57:55.081Z"
+    },
     "810861466": {
       "fullName": "0xPlaygrounds/rig",
       "featuredAt": "2026-10-12T06:09:00.652Z"
     },
+    "998450933": {
+      "fullName": "afairgiant/MediKeep",
+      "featuredAt": "2026-10-26T04:57:55.081Z"
+    },
+    "1080303136": {
+      "fullName": "avabbbb/Flovart",
+      "featuredAt": "2026-10-26T04:57:55.081Z"
+    },
     "1143461873": {
       "fullName": "ZaxbyHub/opencode-swarm",
       "featuredAt": "2026-10-09T11:37:34.118Z"
+    },
+    "1233749549": {
+      "fullName": "Sma1lboy/rove",
+      "featuredAt": "2026-10-26T04:57:55.081Z"
+    },
+    "1266212515": {
+      "fullName": "omnigent-ai/omnigent",
+      "featuredAt": "2026-10-26T04:57:55.081Z"
     },
     "1401476500": {
       "fullName": "QingYunA/answer-me-with-html",
@@ -6736,7 +9321,63 @@
     "1423982435": {
       "fullName": "Fazmin/cve-intel",
       "featuredAt": "2026-10-19T04:52:34.746Z"
+    },
+    "1425227613": {
+      "fullName": "C4rohan/Lampline",
+      "featuredAt": "2026-10-26T04:57:55.081Z"
+    },
+    "1426256817": {
+      "fullName": "kukemc/bili-cli",
+      "featuredAt": "2026-10-26T04:57:55.081Z"
+    },
+    "1426292092": {
+      "fullName": "pnnnx/local-code-tutor",
+      "featuredAt": "2026-10-26T04:57:55.081Z"
+    },
+    "1429201154": {
+      "fullName": "Juwan-Hwang/omni2api",
+      "featuredAt": "2026-10-26T04:57:55.081Z"
+    },
+    "1429539637": {
+      "fullName": "Zolohacker/EasyRun",
+      "featuredAt": "2026-10-26T04:57:55.081Z"
+    },
+    "1430140009": {
+      "fullName": "alexsergivan/kwant",
+      "featuredAt": "2026-10-26T04:57:55.081Z"
+    },
+    "1430540152": {
+      "fullName": "litmers-dev/litpage",
+      "featuredAt": "2026-10-26T04:57:55.081Z"
+    },
+    "1431811046": {
+      "fullName": "yzsind/mydb",
+      "featuredAt": "2026-10-26T04:57:55.081Z"
+    },
+    "1431932080": {
+      "fullName": "lwh0630/TokenBar",
+      "featuredAt": "2026-10-26T04:57:55.081Z"
+    },
+    "1431996468": {
+      "fullName": "Huy-8bit/locklens",
+      "featuredAt": "2026-10-26T04:57:55.081Z"
+    },
+    "1432049040": {
+      "fullName": "ImLunaHey/local-paas",
+      "featuredAt": "2026-10-26T04:57:55.081Z"
+    },
+    "1433183806": {
+      "fullName": "unknown404-practice/Autonomous-Event-Planner",
+      "featuredAt": "2026-10-26T04:57:55.081Z"
+    },
+    "1433451072": {
+      "fullName": "deepdigger69/toydb",
+      "featuredAt": "2026-10-26T04:57:55.081Z"
+    },
+    "1433481918": {
+      "fullName": "omarperacha/minutus",
+      "featuredAt": "2026-10-26T04:57:55.081Z"
     }
   },
-  "lastSuccessfulRun": "2026-10-19T04:52:34.746Z"
+  "lastSuccessfulRun": "2026-10-26T04:57:55.081Z"
 }
